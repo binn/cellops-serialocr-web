@@ -1129,6 +1129,11 @@ caniuse-lite@^1.0.30001406:
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001441.tgz#987437b266260b640a23cd18fbddb509d7f69f3e"
   integrity sha512-OyxRR4Vof59I3yGWXws6i908EtGbMzVUi3ganaZQHmydk1iwDhRnvaPG2WaR0KcqrDFKrxVZHULT396LEPhXfg==
 
+chakra-ui-file-picker@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/chakra-ui-file-picker/-/chakra-ui-file-picker-0.3.0.tgz#9335d93d62ffb92776928aa7ec3a5c2b53df606c"
+  integrity sha512-bf6KjEG135k3vWY0kmK1WLvuRsBsYa8+YEqUftpaT/tVbwHnWZUZIOIXaX7szZDmlp81FPxXeoxW0fJozs71hg==
+
 chalk@^2.0.0:
   version "2.4.2"
   resolved "https://registry.yarnpkg.com/chalk/-/chalk-2.4.2.tgz#cd42541677a54333cf541a49108c1432b44c9424"
